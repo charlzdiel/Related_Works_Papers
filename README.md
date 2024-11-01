@@ -28,6 +28,8 @@ New papers keep coming, remember to **Watch** this repo if you are interested in
 * Revisiting Log-Structured Merging for KV Stores in Hybrid Memory Systems (ASPLOS 23)
 * Revisiting Secondary Indexing in LSM-based Storage Systems with Persistent Memory (ATC 23)
 * ThanosKV: A Holistic Approach to Utilize NVM for LSM-tree based Key-Value Stores (Bigcomp 24)
+* Tiered Storage in Modern Key-Value Stores: Performance, Storage-Efficiency, and Cost-Efficiency Considerations (Bigcomp 24)
+* HyperDB: a Novel Key Value Store for Reducing Background Traffic in Heterogeneous SSD Storage (ICPP 24)
 
 ---
 
